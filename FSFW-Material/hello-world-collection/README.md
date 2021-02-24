@@ -4,6 +4,7 @@ This repository collects material which aims to make it easier to get started wi
 Currently the following languages are covered (see README.md files in each directory):
 
 * [Python](python/README.md)
+* [Java](java/README.md)
 * [C](C/README.md)
 * [Go](go/README.md)
 * [Ada](ada/README.md)

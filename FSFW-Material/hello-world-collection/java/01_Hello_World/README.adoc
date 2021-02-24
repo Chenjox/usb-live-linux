@@ -1,0 +1,21 @@
+= Example `Hello World`
+
+== English
+
+This example helps creating the very first program in any language.
+
+The following lessons can be taken from this example:
+
+.Lessons Learned
+- [x] Every `.java` File contains *one* class. The class name must be identical to the filename.
+- [x] The starting point for every java-program ist the `main()` method. It is defined to have the following signature `public static void main(String[] args)`.
+
+== Deutsch
+
+Dieses Beispiel ist das aller erste Programm in jeder Sprache.
+
+Die folgenden _Lessons Learned_ können diesem entnommen werden:
+
+.Lessons Learned
+- [x] Jede `.java` Datei beinhaltet genau *eine* Klasse, deren Name mit dem Dateinamen übereinstimmen muss.
+- [x] Der Einsprungspunkt ist die `main()` Methode. Sie muss dem folgendem Aufbau entsprechen `public static void main(String[] args)`.
